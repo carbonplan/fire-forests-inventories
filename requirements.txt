@@ -1,0 +1,8 @@
+fsspec
+h5py
+gcsfs
+numpy
+pandas
+regionmask
+tqdm
+xarray
