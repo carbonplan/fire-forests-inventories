@@ -65,7 +65,6 @@ repos:
           |graphql|gql\
           |html\
           |js|jsx\
-          |json\
           |ts|tsx\
           |vue\
           |yaml|yml\
