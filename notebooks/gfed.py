@@ -103,7 +103,7 @@ def return_gfed_emissions(
                     # calculate the total annual emisisons
                     CO2_emissions += C_emissions * C_TO_CO2_CONVERSION  # Conversion mass C to CO2
             except KeyError:
-                print('TOO BAD! {month} not available')
+                print(f'TOO BAD! {month} not available')
 
         # fill table with total values for the globe (row 15) or basisregion (1-14)
         if gfeds_regions:
