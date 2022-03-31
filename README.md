@@ -8,12 +8,10 @@
 **analysis for article on fire, forests, and greenhouse gas inventories**
 
 [![GitHub][github-badge]][github]
-![Build Status][]
 ![MIT License][]
 
 [github]: https://github.com/carbonplan/fire-forests-inventories
 [github-badge]: https://flat.badgen.net/badge/-/github?icon=github&label
-[build status]: https://flat.badgen.net/github/checks/carbonplan/fire-forests-inventories
 [mit license]: https://flat.badgen.net/badge/license/MIT/blue
 
 ## license
